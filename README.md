@@ -8,7 +8,7 @@
 <ul>
         <li>Python</li>
         <li>C++</li>
-        <li>C#/li>
+        <li>C#</li>
         <li>C</li>
 </ul>
 
