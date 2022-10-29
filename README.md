@@ -1,6 +1,7 @@
 # This is my README project
 
 <p>In this project, I will be tating my <strong>interests</strong>, <strong>achievements</strong>, and <strong>dreams</strong></p>
+
 ## Interests
 
 <p>I have a great interest in cloud computing with AWS. I would like to become a Solutions Architect.</p>
